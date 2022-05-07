@@ -1,4 +1,5 @@
 # Examples
+These are for THIS REPOSITORY ONLY.
 ## openIssues
 <a href="https://github.com/TheVillainCoders/GithubAddons/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/TheVillainCoders/GithubAddons?color=0088ff" />
