@@ -5,3 +5,7 @@ Additions you can add to Github READMEs, releases, etc.
 **For dark mode, add &theme=dark to the end of the URL.**
 
 ### [Report an Issue :(](https://github.com/VillainsRule4000/GithubAddons/issues)
+
+## Additional Sources
+- https://github.com/Dexters-Hub/github-readme-stats
+- https://github.com/Dexters-Hub/shields
