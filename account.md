@@ -17,6 +17,12 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VillainsRule4000&theme=dark&hide_border=true)
   
     https://github-readme-streak-stats.herokuapp.com/demo/
+### Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qaiik&langs_count=4)
+  
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&langs_count=LANG_COUNT_DISPLAYED)
+
+These languages are actually @qaiik's, because I don't have any .js/.html projects on my main account...
 ### Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=VillainsRule4000&theme=onedark)
   
