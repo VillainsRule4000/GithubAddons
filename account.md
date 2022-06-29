@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Examples</h1>
+  <h1>Account Cards</h1>
 
   ### Activity Graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=VillainsRule4000&theme=gotham)  
