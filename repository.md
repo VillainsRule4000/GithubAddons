@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Examples</h1>
+  <h1>Repository Cards</h1>
 
 ### Open Issues
 <img alt="Issues" src="https://img.shields.io/github/issues/VillainsRule4000/GithubAddons?color=0088ff" />
